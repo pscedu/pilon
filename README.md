@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/github/license/pscedu/pilon)
 
 # pilon
-Singularity recipe for [pilon](https://github.com/broadinstitute/pilon).
+Recipe for [pilon](https://github.com/broadinstitute/pilon).
 
 ## Installing on Bridges 2
 Copy the
