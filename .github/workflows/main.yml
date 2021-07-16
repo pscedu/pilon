@@ -1,4 +1,4 @@
-name: Singularity build
+name: Good old fashioned build
 on: [push, pull_request]
 jobs:
   build:
